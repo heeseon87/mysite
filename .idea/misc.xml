@@ -20,7 +20,7 @@
   <component name="ProjectModuleManager">
     <modules />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.4.3 (ssh://looper@192.168.220.132:22/home/looper/.pyenv/versions/py343/bin/python3.4)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.4.3 (C:\Python34\python.exe)" project-jdk-type="Python SDK" />
   <component name="RunManager">
     <list size="0" />
   </component>

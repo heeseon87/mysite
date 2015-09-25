@@ -7,13 +7,13 @@ from django.db import models, migrations
 class Migration(migrations.Migration):
 
     dependencies = [
-        ('semis', '0002_auto_20150923_1808'),
+        ('semis', '0001_initial'),
     ]
 
     operations = [
-        migrations.AlterField(
-            model_name='user_info',
-            name='reg_date',
-            field=models.DateTimeField(auto_now_add=True),
+        migrations.RenameField(
+            model_name='card_info',
+            old_name='card_comment',
+            new_name='card_name',
         ),
     ]
